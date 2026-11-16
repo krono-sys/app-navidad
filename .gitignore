@@ -1,0 +1,11 @@
+node_modules
+.next
+next-env.d.ts
+data/*.db*
+data/uploads/*
+!data/uploads/.gitkeep
+.env*.local
+.env
+*.zip
+artifact/
+*.zip
